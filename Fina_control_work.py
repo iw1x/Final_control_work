@@ -10,3 +10,5 @@ def filter_strings(strings):
 input_strings = ["Hello", "2", "world", ":-)"]
 # Фильтруем строки
 filtered_strings = filter_strings(input_strings)
+# Выводим результат
+print(filtered_strings)
