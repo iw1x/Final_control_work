@@ -8,3 +8,5 @@ def filter_strings(strings):
 
 # Входной массив
 input_strings = ["Hello", "2", "world", ":-)"]
+# Фильтруем строки
+filtered_strings = filter_strings(input_strings)
