@@ -5,3 +5,6 @@ def filter_strings(strings):
         if len(string) <= 3:
             new_strings.append(string) # Добавляем строку в новый массив
     return new_strings # Возвращаем новый массив
+
+# Входной массив
+input_strings = ["Hello", "2", "world", ":-)"]
